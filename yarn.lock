@@ -8279,7 +8279,7 @@
     "@sentry/cli-win32-i686" "2.42.4"
     "@sentry/cli-win32-x64" "2.42.4"
 
-"@sentry/core@8.54.0", "@sentry/core@~8.54.0":
+"@sentry/core@8.54.0":
   version "8.54.0"
   resolved "https://registry.yarnpkg.com/@sentry/core/-/core-8.54.0.tgz#a2ebec965cadcb6de89e116689feeef79d5862a6"
   integrity sha512-03bWf+D1j28unOocY/5FDB6bUHtYlm6m6ollVejhg45ZmK9iPjdtxNWbrLsjT1WRym0Tjzowu+A3p+eebYEv0Q==
@@ -8288,6 +8288,11 @@
   version "9.23.0"
   resolved "https://registry.yarnpkg.com/@sentry/core/-/core-9.23.0.tgz#96a514cc9d8ac043dea0a4648ed1205c25ff5ae5"
   integrity sha512-9846pn/BvASGgl7WsnKY4xry98WreP9ToeLfCQTQOf+pNfD/qNPn1/0xPInGni3LVMAXRtfHHMPm2Ghz255N7A==
+
+"@sentry/core@~10.2.0":
+  version "10.2.0"
+  resolved "https://registry.yarnpkg.com/@sentry/core/-/core-10.2.0.tgz#854f036914c718c664fbd54eef6dfdc9db0f44d1"
+  integrity sha512-2QOuo2B26oReum9CxizK+c96FlV5oI6nsNjKgIYfrT+BTAAR3OlD/pzfJtxo3ydYzfU33Zdtu9XTWvhEAlHeZQ==
 
 "@sentry/react-native@~6.10.0":
   version "6.10.0"
